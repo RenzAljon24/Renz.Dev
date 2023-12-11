@@ -71,15 +71,15 @@ h2:hover, h2:active {
 
 /* Original styles for box2 */
 .box2 {
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   border-radius: 50px;
   border-style: ridge;
   float: right;
   padding: 10px;
   width: 400px;
-  height: 170px;
+  height: 200px;
   background-color: #FFF0F5;
-  margin-top: 80px;
+  margin-top: 50px;
   margin-right: 300px;
   box-shadow: 5px 10px 5px 7px #888888;
 }
@@ -112,6 +112,9 @@ h2:hover, h2:active {
   .box2 {
     margin: 10px; /* Further adjust margin for better spacing on smaller screens */
   }
+}
+.cc {
+  flex-wrap: wrap;
 }
 
 
