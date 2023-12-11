@@ -71,7 +71,7 @@ h2:hover, h2:active {
 
 /* Original styles for box2 */
 .box2 {
-  flex-wrap: nowrap;
+  flex-wrap:wrap;
   border-radius: 50px;
   border-style: ridge;
   float: right;
